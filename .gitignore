@@ -1,0 +1,14 @@
+# Julia specific
+.julia/
+*.jl.cov
+*.jl.*
+*.jl.*
+.vscode/
+
+# VSCode specific
+.history/
+.vscode/
+.DS_Store
+
+# Output directories
+/output/
