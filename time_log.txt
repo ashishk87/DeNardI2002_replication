@@ -1,0 +1,1694 @@
+Started at 21 38 49
+val fun computed at 21 38 53
+Started at 21 39 9
+val fun computed at 21 39 13
+Started at 21 39 54
+val fun computed at 21 39 59
+Started at 21 40 16
+val fun computed at 21 40 20
+Started at 21 40 35
+val fun computed at 21 40 39
+Started at 21 40 54
+val fun computed at 21 40 58
+Started at 21 41 13
+val fun computed at 21 41 17
+Started at 21 41 33
+val fun computed at 21 41 36
+Started at 21 41 52
+val fun computed at 21 41 56
+Started at 21 42 11
+val fun computed at 21 42 15
+Started at 21 42 30
+val fun computed at 21 42 34
+beqdist computed at 21 42 50
+Started at 21 42 50
+val fun computed at 21 42 54
+Started at 21 43 9
+val fun computed at 21 43 13
+Started at 21 43 28
+val fun computed at 21 43 32
+Started at 21 43 47
+val fun computed at 21 43 51
+Started at 21 44 6
+val fun computed at 21 44 10
+beqdist computed at 21 44 26
+Started at 21 44 26
+val fun computed at 21 44 29
+Started at 21 44 45
+val fun computed at 21 44 49
+Started at 21 45 4
+val fun computed at 21 45 8
+beqdist computed at 21 45 23
+Started at 21 45 23
+val fun computed at 21 45 27
+Started at 21 45 42
+val fun computed at 21 45 46
+Started at 21 46 1
+val fun computed at 21 46 5
+beqdist computed at 21 46 20
+New  Tau_l computed at 21 46 20
+Started at 21 50 49
+val fun computed at 21 50 53
+Started at 21 51 9
+val fun computed at 21 51 13
+Started at 21 51 28
+val fun computed at 21 51 32
+Started at 21 51 48
+val fun computed at 21 51 52
+Started at 21 52 8
+val fun computed at 21 52 11
+Started at 21 52 27
+val fun computed at 21 52 31
+Started at 21 52 46
+val fun computed at 21 52 50
+Started at 21 53 6
+val fun computed at 21 53 9
+beqdist computed at 21 53 25
+Started at 21 53 25
+val fun computed at 21 53 29
+Started at 21 53 44
+val fun computed at 21 53 48
+Started at 21 54 4
+val fun computed at 21 54 8
+Started at 21 54 23
+val fun computed at 21 54 27
+Started at 21 54 43
+val fun computed at 21 54 46
+beqdist computed at 21 55 2
+Started at 21 55 2
+val fun computed at 21 55 6
+Started at 21 55 21
+val fun computed at 21 55 25
+Started at 21 55 41
+val fun computed at 21 55 45
+beqdist computed at 21 56 1
+Started at 21 56 1
+val fun computed at 21 56 5
+Started at 21 56 20
+val fun computed at 21 56 24
+Started at 21 56 40
+val fun computed at 21 56 44
+beqdist computed at 21 56 59
+Started at 21 56 59
+val fun computed at 21 57 3
+Started at 21 57 18
+val fun computed at 21 57 22
+beqdist computed at 21 57 38
+New  Tau_l computed at 21 57 38
+Started at 22 5 7
+val fun computed at 22 5 11
+Started at 22 5 27
+val fun computed at 22 5 31
+Started at 22 5 47
+val fun computed at 22 5 51
+Started at 22 6 7
+val fun computed at 22 6 11
+Started at 22 6 27
+val fun computed at 22 6 31
+Started at 22 6 47
+val fun computed at 22 6 51
+Started at 22 7 7
+val fun computed at 22 7 11
+Started at 22 7 27
+val fun computed at 22 7 31
+beqdist computed at 22 7 47
+Started at 22 7 47
+val fun computed at 22 7 51
+Started at 22 8 7
+val fun computed at 22 8 11
+Started at 22 8 27
+val fun computed at 22 8 31
+Started at 22 8 47
+val fun computed at 22 8 51
+beqdist computed at 22 9 7
+Started at 22 9 7
+val fun computed at 22 9 11
+Started at 22 9 27
+val fun computed at 22 9 31
+Started at 22 9 47
+val fun computed at 22 9 51
+Started at 22 10 7
+val fun computed at 22 10 11
+beqdist computed at 22 10 27
+Started at 22 10 27
+val fun computed at 22 10 31
+Started at 22 10 47
+val fun computed at 22 10 51
+Started at 22 11 7
+val fun computed at 22 11 11
+Started at 22 11 27
+val fun computed at 22 11 31
+Started at 22 11 47
+val fun computed at 22 11 51
+beqdist computed at 22 12 7
+Started at 22 12 7
+val fun computed at 22 12 11
+Started at 22 12 27
+val fun computed at 22 12 31
+Started at 22 12 47
+val fun computed at 22 12 51
+beqdist computed at 22 13 7
+New  Tau_l computed at 22 13 7
+Started at 22 16 12
+val fun computed at 22 16 16
+Started at 22 16 32
+val fun computed at 22 16 36
+Started at 22 16 53
+val fun computed at 22 16 57
+Started at 22 17 13
+val fun computed at 22 17 17
+Started at 22 17 33
+val fun computed at 22 17 38
+Started at 22 17 54
+val fun computed at 22 17 58
+Started at 22 18 14
+val fun computed at 22 18 18
+Started at 22 18 34
+val fun computed at 22 18 38
+beqdist computed at 22 18 54
+Started at 22 18 54
+val fun computed at 22 18 58
+Started at 22 19 14
+val fun computed at 22 19 18
+Started at 22 19 34
+val fun computed at 22 19 38
+Started at 22 19 55
+val fun computed at 22 19 59
+Started at 22 20 15
+val fun computed at 22 20 19
+beqdist computed at 22 20 35
+Started at 22 20 35
+val fun computed at 22 20 39
+Started at 22 20 55
+val fun computed at 22 20 59
+Started at 22 21 15
+val fun computed at 22 21 19
+beqdist computed at 22 21 35
+Started at 22 21 35
+val fun computed at 22 21 39
+Started at 22 21 55
+val fun computed at 22 21 59
+Started at 22 22 16
+val fun computed at 22 22 20
+beqdist computed at 22 22 36
+Started at 22 22 36
+val fun computed at 22 22 40
+Started at 22 22 56
+val fun computed at 22 23 0
+beqdist computed at 22 23 16
+New  Tau_l computed at 22 23 16
+Started at 22 25 0
+val fun computed at 22 25 4
+Started at 22 25 20
+val fun computed at 22 25 24
+Started at 22 25 40
+val fun computed at 22 25 44
+Started at 22 26 0
+val fun computed at 22 26 4
+Started at 22 26 19
+val fun computed at 22 26 23
+Started at 22 26 39
+val fun computed at 22 26 43
+Started at 22 26 59
+val fun computed at 22 27 3
+Started at 22 27 19
+val fun computed at 22 27 23
+beqdist computed at 22 27 39
+Started at 22 27 39
+val fun computed at 22 27 43
+Started at 22 28 0
+val fun computed at 22 28 4
+Started at 22 28 20
+val fun computed at 22 28 24
+Started at 22 28 40
+val fun computed at 22 28 44
+beqdist computed at 22 29 0
+Started at 22 29 0
+val fun computed at 22 29 4
+Started at 22 29 20
+val fun computed at 22 29 24
+Started at 22 29 40
+val fun computed at 22 29 44
+beqdist computed at 22 30 1
+New  Tau_l computed at 22 30 1
+Started at 22 44 4
+val fun computed at 22 44 8
+Started at 22 44 25
+val fun computed at 22 44 29
+Started at 22 44 45
+val fun computed at 22 44 49
+Started at 22 45 5
+val fun computed at 22 45 10
+Started at 22 45 26
+val fun computed at 22 45 30
+Started at 22 45 46
+val fun computed at 22 45 50
+Started at 22 46 6
+val fun computed at 22 46 10
+Started at 22 46 26
+val fun computed at 22 46 31
+Started at 22 46 47
+val fun computed at 22 46 51
+Started at 22 47 7
+val fun computed at 22 47 11
+Started at 22 47 27
+val fun computed at 22 47 31
+Started at 22 47 47
+val fun computed at 22 47 51
+beqdist computed at 22 48 7
+Started at 22 48 7
+val fun computed at 22 48 11
+Started at 22 48 28
+val fun computed at 22 48 32
+Started at 22 48 48
+val fun computed at 22 48 52
+Started at 22 49 8
+val fun computed at 22 49 12
+beqdist computed at 22 49 28
+Started at 22 49 28
+val fun computed at 22 49 32
+Started at 22 49 48
+val fun computed at 22 49 52
+Started at 22 50 8
+val fun computed at 22 50 12
+beqdist computed at 22 50 28
+Started at 22 50 28
+val fun computed at 22 50 32
+Started at 22 50 49
+val fun computed at 22 50 53
+Started at 22 51 9
+val fun computed at 22 51 13
+beqdist computed at 22 51 29
+New  Tau_l computed at 22 51 29
+Started at 22 56 15
+val fun computed at 22 56 19
+Started at 22 56 35
+val fun computed at 22 56 39
+Started at 22 56 55
+val fun computed at 22 56 59
+Started at 22 57 15
+val fun computed at 22 57 19
+Started at 22 57 34
+val fun computed at 22 57 39
+Started at 22 57 55
+val fun computed at 22 57 59
+Started at 22 58 15
+val fun computed at 22 58 19
+Started at 22 58 34
+val fun computed at 22 58 38
+Started at 22 58 54
+val fun computed at 22 58 58
+Started at 22 59 15
+val fun computed at 22 59 18
+Started at 22 59 34
+val fun computed at 22 59 38
+beqdist computed at 22 59 54
+Started at 22 59 54
+val fun computed at 22 59 58
+Started at 23 0 14
+val fun computed at 23 0 18
+Started at 23 0 34
+val fun computed at 23 0 38
+Started at 23 0 54
+val fun computed at 23 0 58
+Started at 23 1 13
+val fun computed at 23 1 18
+Started at 23 1 34
+val fun computed at 23 1 38
+Started at 23 1 53
+val fun computed at 23 1 57
+Started at 23 2 13
+val fun computed at 23 2 17
+beqdist computed at 23 2 33
+Started at 23 2 33
+val fun computed at 23 2 37
+Started at 23 2 53
+val fun computed at 23 2 57
+Started at 23 3 13
+val fun computed at 23 3 17
+Started at 23 3 33
+val fun computed at 23 3 37
+beqdist computed at 23 3 53
+Started at 23 3 53
+val fun computed at 23 3 57
+Started at 23 4 13
+val fun computed at 23 4 17
+Started at 23 4 33
+val fun computed at 23 4 37
+beqdist computed at 23 4 53
+New  Tau_l computed at 23 4 53
+Started at 23 8 0
+val fun computed at 23 8 5
+Started at 23 8 20
+val fun computed at 23 8 24
+Started at 23 8 40
+val fun computed at 23 8 44
+Started at 23 9 0
+val fun computed at 23 9 4
+Started at 23 9 20
+val fun computed at 23 9 24
+Started at 23 9 40
+val fun computed at 23 9 44
+Started at 23 10 0
+val fun computed at 23 10 4
+Started at 23 10 20
+val fun computed at 23 10 24
+Started at 23 10 40
+val fun computed at 23 10 44
+Started at 23 11 0
+val fun computed at 23 11 4
+Started at 23 11 21
+val fun computed at 23 11 25
+Started at 23 11 41
+val fun computed at 23 11 45
+Started at 23 12 1
+val fun computed at 23 12 5
+Started at 23 12 22
+val fun computed at 23 12 26
+Started at 23 12 42
+val fun computed at 23 12 46
+Started at 23 13 2
+val fun computed at 23 13 6
+Started at 23 13 22
+val fun computed at 23 13 26
+Started at 23 13 42
+val fun computed at 23 13 46
+Started at 23 14 2
+val fun computed at 23 14 6
+Started at 23 14 22
+val fun computed at 23 14 26
+Started at 23 14 42
+val fun computed at 23 14 46
+Started at 23 15 2
+val fun computed at 23 15 6
+Started at 23 15 22
+val fun computed at 23 15 26
+Started at 23 15 43
+val fun computed at 23 15 47
+Started at 23 16 3
+val fun computed at 23 16 7
+Started at 23 16 23
+val fun computed at 23 16 27
+Started at 23 16 43
+val fun computed at 23 16 47
+Started at 23 17 3
+val fun computed at 23 17 7
+Started at 23 17 23
+val fun computed at 23 17 27
+Started at 23 17 43
+val fun computed at 23 17 47
+Started at 23 18 3
+val fun computed at 23 18 7
+Started at 23 18 23
+val fun computed at 23 18 27
+Started at 23 18 43
+val fun computed at 23 18 47
+Started at 23 19 3
+val fun computed at 23 19 7
+Started at 23 19 23
+val fun computed at 23 19 27
+Started at 23 19 43
+val fun computed at 23 19 47
+Started at 23 20 2
+val fun computed at 23 20 6
+Started at 23 20 22
+val fun computed at 23 20 26
+Started at 23 20 42
+val fun computed at 23 20 46
+Started at 23 21 2
+val fun computed at 23 21 6
+Started at 23 21 22
+val fun computed at 23 21 26
+Started at 23 21 42
+val fun computed at 23 21 46
+Started at 23 22 2
+val fun computed at 23 22 6
+Started at 23 22 22
+val fun computed at 23 22 25
+Started at 23 22 41
+val fun computed at 23 22 45
+Started at 23 23 1
+val fun computed at 23 23 5
+Started at 23 23 21
+val fun computed at 23 23 25
+Started at 23 23 40
+val fun computed at 23 23 44
+Started at 23 24 0
+val fun computed at 23 24 4
+Started at 23 24 20
+val fun computed at 23 24 24
+Started at 23 24 40
+val fun computed at 23 24 43
+Started at 23 24 59
+val fun computed at 23 25 3
+Started at 23 25 19
+val fun computed at 23 25 23
+Started at 23 25 39
+val fun computed at 23 25 43
+Started at 23 25 59
+val fun computed at 23 26 3
+Started at 23 26 19
+val fun computed at 23 26 23
+Started at 23 26 39
+val fun computed at 23 26 43
+Started at 23 26 58
+val fun computed at 23 27 2
+Started at 23 27 19
+val fun computed at 23 27 23
+Started at 23 27 39
+val fun computed at 23 27 42
+Started at 23 27 58
+val fun computed at 23 28 2
+Started at 23 28 18
+val fun computed at 23 28 22
+Started at 23 28 38
+val fun computed at 23 28 42
+Started at 23 28 57
+val fun computed at 23 29 1
+Started at 23 29 17
+val fun computed at 23 29 21
+Started at 23 29 37
+val fun computed at 23 29 41
+Started at 23 29 57
+val fun computed at 23 30 1
+Started at 23 30 17
+val fun computed at 23 30 21
+Started at 23 30 37
+val fun computed at 23 30 41
+Started at 23 30 57
+val fun computed at 23 31 1
+Started at 23 31 17
+val fun computed at 23 31 21
+Started at 23 31 37
+val fun computed at 23 31 41
+Started at 23 31 57
+val fun computed at 23 32 1
+Started at 23 32 17
+val fun computed at 23 32 21
+Started at 23 32 37
+val fun computed at 23 32 41
+Started at 23 32 58
+val fun computed at 23 33 2
+Started at 23 33 18
+val fun computed at 23 33 22
+Started at 23 33 38
+val fun computed at 23 33 42
+Started at 23 33 58
+val fun computed at 23 34 2
+Started at 23 34 18
+val fun computed at 23 34 22
+Started at 23 34 38
+val fun computed at 23 34 42
+Started at 23 34 58
+val fun computed at 23 35 2
+Started at 23 35 19
+val fun computed at 23 35 22
+Started at 23 35 39
+val fun computed at 23 35 43
+Started at 23 35 59
+val fun computed at 23 36 3
+Started at 23 36 19
+val fun computed at 23 36 23
+Started at 23 36 39
+val fun computed at 23 36 43
+Started at 23 37 0
+val fun computed at 23 37 4
+Started at 23 37 20
+val fun computed at 23 37 23
+Started at 23 37 39
+val fun computed at 23 37 43
+Started at 23 38 0
+val fun computed at 23 38 4
+Started at 23 38 20
+val fun computed at 23 38 24
+Started at 23 38 40
+val fun computed at 23 38 44
+Started at 23 39 0
+val fun computed at 23 39 4
+Started at 23 39 20
+val fun computed at 23 39 24
+Started at 23 39 41
+val fun computed at 23 39 45
+Started at 23 40 1
+val fun computed at 23 40 5
+Started at 23 40 21
+val fun computed at 23 40 25
+Started at 23 40 41
+val fun computed at 23 40 46
+Started at 23 41 2
+val fun computed at 23 41 6
+Started at 23 41 22
+val fun computed at 23 41 26
+Started at 23 41 42
+val fun computed at 23 41 46
+Started at 23 42 2
+val fun computed at 23 42 6
+Started at 23 42 22
+val fun computed at 23 42 26
+Started at 23 42 43
+val fun computed at 23 42 46
+Started at 23 43 2
+val fun computed at 23 43 7
+Started at 23 44 2
+val fun computed at 23 44 7
+Started at 23 44 25
+val fun computed at 23 44 28
+Started at 23 44 44
+val fun computed at 23 44 48
+Started at 23 45 3
+val fun computed at 23 45 7
+Started at 23 45 23
+val fun computed at 23 45 27
+Started at 23 45 42
+val fun computed at 23 45 46
+Started at 23 46 2
+val fun computed at 23 46 6
+Started at 23 46 21
+val fun computed at 23 46 25
+Started at 23 46 40
+val fun computed at 23 46 44
+Started at 23 47 0
+val fun computed at 23 47 4
+Started at 23 47 19
+val fun computed at 23 47 23
+Started at 23 47 38
+val fun computed at 23 47 42
+Started at 23 47 58
+val fun computed at 23 48 2
+Started at 23 48 18
+val fun computed at 23 48 22
+Started at 23 48 37
+val fun computed at 23 48 41
+Started at 23 48 57
+val fun computed at 23 49 1
+Started at 23 49 16
+val fun computed at 23 49 20
+Started at 23 49 36
+val fun computed at 23 49 39
+Started at 23 49 55
+val fun computed at 23 49 59
+Started at 23 50 15
+val fun computed at 23 50 18
+Started at 23 50 34
+val fun computed at 23 50 38
+Started at 23 50 53
+val fun computed at 23 50 57
+Started at 23 51 13
+val fun computed at 23 51 17
+Started at 23 51 33
+val fun computed at 23 51 36
+Started at 23 51 52
+val fun computed at 23 51 56
+Started at 23 52 11
+val fun computed at 23 52 15
+Started at 23 52 31
+val fun computed at 23 52 35
+Started at 23 52 51
+val fun computed at 23 52 54
+Started at 23 53 10
+val fun computed at 23 53 14
+Started at 23 53 29
+val fun computed at 23 53 33
+Started at 23 53 49
+val fun computed at 23 53 52
+Started at 23 54 8
+val fun computed at 23 54 12
+beqdist computed at 23 54 28
+Started at 23 54 28
+val fun computed at 23 54 32
+Started at 23 54 47
+val fun computed at 23 54 51
+Started at 23 55 7
+val fun computed at 23 55 11
+Started at 23 55 26
+val fun computed at 23 55 30
+Started at 23 55 46
+val fun computed at 23 55 50
+Started at 23 56 6
+val fun computed at 23 56 9
+Started at 23 56 25
+val fun computed at 23 56 29
+Started at 23 56 45
+val fun computed at 23 56 48
+Started at 23 57 4
+val fun computed at 23 57 7
+Started at 23 57 23
+val fun computed at 23 57 27
+Started at 23 57 42
+val fun computed at 23 57 45
+Started at 23 58 1
+val fun computed at 23 58 4
+Started at 23 58 20
+val fun computed at 23 58 23
+Started at 23 58 39
+val fun computed at 23 58 43
+Started at 23 58 58
+val fun computed at 23 59 2
+Started at 23 59 17
+val fun computed at 23 59 21
+Started at 23 59 36
+val fun computed at 23 59 40
+Started at 23 59 56
+val fun computed at 0 0 0
+Started at 0 0 15
+val fun computed at 0 0 19
+Started at 0 0 34
+val fun computed at 0 0 38
+Started at 0 0 53
+val fun computed at 0 0 57
+beqdist computed at 0 1 12
+Started at 0 1 12
+val fun computed at 0 1 16
+Started at 0 1 31
+val fun computed at 0 1 35
+Started at 0 1 51
+val fun computed at 0 1 54
+Started at 0 2 10
+val fun computed at 0 2 13
+Started at 0 2 29
+val fun computed at 0 2 33
+Started at 0 2 48
+val fun computed at 0 2 52
+Started at 0 3 7
+val fun computed at 0 3 11
+Started at 0 3 26
+val fun computed at 0 3 30
+Started at 0 3 45
+val fun computed at 0 3 49
+Started at 0 4 4
+val fun computed at 0 4 8
+Started at 0 4 23
+val fun computed at 0 4 27
+Started at 0 4 42
+val fun computed at 0 4 46
+Started at 0 5 1
+val fun computed at 0 5 5
+beqdist computed at 0 5 21
+Started at 0 5 21
+val fun computed at 0 5 25
+Started at 0 5 40
+val fun computed at 0 5 44
+Started at 0 5 59
+val fun computed at 0 6 3
+Started at 0 6 18
+val fun computed at 0 6 22
+Started at 0 6 37
+val fun computed at 0 6 41
+Started at 0 6 57
+val fun computed at 0 7 0
+Started at 0 7 16
+val fun computed at 0 7 20
+Started at 0 7 35
+val fun computed at 0 7 39
+Started at 0 7 54
+val fun computed at 0 7 58
+Started at 0 8 14
+val fun computed at 0 8 17
+Started at 0 8 33
+val fun computed at 0 8 37
+Started at 0 8 52
+val fun computed at 0 8 56
+beqdist computed at 0 9 12
+Started at 0 9 12
+val fun computed at 0 9 15
+Started at 0 9 31
+val fun computed at 0 9 35
+Started at 0 9 50
+val fun computed at 0 9 54
+Started at 0 10 9
+val fun computed at 0 10 13
+Started at 0 10 28
+val fun computed at 0 10 32
+beqdist computed at 0 10 47
+Started at 0 10 47
+val fun computed at 0 10 51
+Started at 0 11 6
+val fun computed at 0 11 10
+Started at 0 11 25
+val fun computed at 0 11 29
+Started at 0 11 45
+val fun computed at 0 11 48
+Started at 0 12 4
+val fun computed at 0 12 7
+Started at 0 12 23
+val fun computed at 0 12 26
+Started at 0 12 42
+val fun computed at 0 12 46
+Started at 0 13 1
+val fun computed at 0 13 5
+Started at 0 13 20
+val fun computed at 0 13 24
+Started at 0 13 39
+val fun computed at 0 13 43
+beqdist computed at 0 13 58
+New  Tau_l computed at 0 13 58
+Started at 0 15 30
+val fun computed at 0 15 34
+Started at 0 15 50
+val fun computed at 0 15 53
+Started at 0 16 9
+val fun computed at 0 16 13
+Started at 0 16 28
+val fun computed at 0 16 32
+Started at 0 16 47
+val fun computed at 0 16 51
+Started at 0 17 7
+val fun computed at 0 17 11
+Started at 0 17 27
+val fun computed at 0 17 30
+Started at 0 17 46
+val fun computed at 0 17 50
+Started at 0 18 6
+val fun computed at 0 18 9
+beqdist computed at 0 18 25
+Started at 0 18 25
+val fun computed at 0 18 29
+Started at 0 18 45
+val fun computed at 0 18 48
+Started at 0 19 4
+val fun computed at 0 19 8
+Started at 0 19 23
+val fun computed at 0 19 27
+beqdist computed at 0 19 43
+Started at 0 19 43
+val fun computed at 0 19 47
+Started at 0 20 2
+val fun computed at 0 20 6
+Started at 0 20 22
+val fun computed at 0 20 26
+Started at 0 20 41
+val fun computed at 0 20 45
+beqdist computed at 0 21 1
+Started at 0 21 1
+val fun computed at 0 21 4
+Started at 0 21 20
+val fun computed at 0 21 24
+beqdist computed at 0 21 40
+New  Tau_l computed at 0 21 40
+Started at 0 28 1
+val fun computed at 0 28 5
+Started at 0 28 21
+val fun computed at 0 28 25
+Started at 0 28 40
+val fun computed at 0 28 44
+Started at 0 28 59
+val fun computed at 0 29 3
+Started at 0 29 18
+val fun computed at 0 29 22
+Started at 0 29 38
+val fun computed at 0 29 41
+Started at 0 29 57
+val fun computed at 0 30 1
+Started at 0 30 17
+val fun computed at 0 30 21
+Started at 0 30 36
+val fun computed at 0 30 40
+Started at 0 30 56
+val fun computed at 0 31 0
+Started at 0 31 15
+val fun computed at 0 31 19
+Started at 0 31 35
+val fun computed at 0 31 39
+Started at 0 31 55
+val fun computed at 0 31 59
+Started at 0 32 14
+val fun computed at 0 32 18
+Started at 0 32 34
+val fun computed at 0 32 38
+Started at 0 32 53
+val fun computed at 0 32 57
+Started at 0 33 12
+val fun computed at 0 33 16
+Started at 0 33 32
+val fun computed at 0 33 36
+Started at 0 33 51
+val fun computed at 0 33 55
+Started at 0 34 11
+val fun computed at 0 34 15
+Started at 0 34 30
+val fun computed at 0 34 34
+Started at 0 34 50
+val fun computed at 0 34 54
+beqdist computed at 0 35 9
+Started at 0 35 9
+val fun computed at 0 35 13
+Started at 0 35 29
+val fun computed at 0 35 33
+Started at 0 35 49
+val fun computed at 0 35 52
+Started at 0 36 8
+val fun computed at 0 36 12
+Started at 0 36 28
+val fun computed at 0 36 32
+Started at 0 36 47
+val fun computed at 0 36 51
+beqdist computed at 0 37 6
+New  Tau_l computed at 0 37 6
+Started at 1 2 10
+val fun computed at 1 2 17
+Started at 1 2 54
+val fun computed at 1 3 1
+Started at 1 3 37
+val fun computed at 1 3 44
+Started at 1 4 21
+val fun computed at 1 4 28
+Started at 1 5 5
+val fun computed at 1 5 12
+Started at 1 5 49
+val fun computed at 1 5 56
+Started at 1 6 32
+val fun computed at 1 6 39
+Started at 1 7 16
+val fun computed at 1 7 23
+Started at 1 8 0
+val fun computed at 1 8 7
+Started at 1 8 44
+val fun computed at 1 8 51
+Started at 1 9 28
+val fun computed at 1 9 35
+Started at 1 10 11
+val fun computed at 1 10 19
+Started at 1 10 56
+val fun computed at 1 11 3
+Started at 1 11 40
+val fun computed at 1 11 47
+Started at 1 12 24
+val fun computed at 1 12 31
+Started at 1 13 8
+val fun computed at 1 13 15
+Started at 1 13 52
+val fun computed at 1 13 59
+Started at 1 14 35
+val fun computed at 1 14 42
+Started at 1 15 19
+val fun computed at 1 15 26
+Started at 1 16 3
+val fun computed at 1 16 10
+Started at 1 16 47
+val fun computed at 1 16 54
+Started at 1 17 31
+val fun computed at 1 17 38
+Started at 1 18 15
+val fun computed at 1 18 22
+Started at 1 18 59
+val fun computed at 1 19 6
+Started at 1 19 43
+val fun computed at 1 19 50
+Started at 1 20 27
+val fun computed at 1 20 34
+Started at 1 21 11
+val fun computed at 1 21 18
+Started at 1 21 54
+val fun computed at 1 22 1
+Started at 1 22 37
+val fun computed at 1 22 44
+Started at 1 23 21
+val fun computed at 1 23 28
+Started at 1 24 4
+val fun computed at 1 24 11
+Started at 1 24 47
+val fun computed at 1 24 54
+Started at 1 25 30
+val fun computed at 1 25 37
+beqdist computed at 1 26 14
+Started at 1 26 14
+val fun computed at 1 26 21
+Started at 1 26 57
+val fun computed at 1 27 4
+Started at 1 27 40
+val fun computed at 1 27 47
+Started at 1 28 24
+val fun computed at 1 28 31
+Started at 1 29 9
+val fun computed at 1 29 16
+Started at 1 29 53
+val fun computed at 1 30 0
+Started at 1 30 36
+val fun computed at 1 30 43
+beqdist computed at 1 31 19
+Started at 1 31 19
+val fun computed at 1 31 26
+Started at 1 32 2
+val fun computed at 1 32 9
+Started at 1 32 45
+val fun computed at 1 32 52
+Started at 1 33 28
+val fun computed at 1 33 35
+Started at 1 34 11
+val fun computed at 1 34 18
+Started at 1 34 54
+val fun computed at 1 35 1
+Started at 1 35 37
+val fun computed at 1 35 44
+Started at 1 36 20
+val fun computed at 1 36 27
+beqdist computed at 1 37 3
+Started at 1 37 3
+val fun computed at 1 37 10
+Started at 1 37 47
+val fun computed at 1 37 53
+Started at 1 38 30
+val fun computed at 1 38 37
+Started at 1 39 12
+val fun computed at 1 39 19
+beqdist computed at 1 39 55
+New  Tau_l computed at 1 39 55
+Started at 1 39 56
+val fun computed at 1 40 3
+Started at 1 40 39
+val fun computed at 1 40 47
+Started at 1 41 23
+val fun computed at 1 41 30
+Started at 1 42 7
+val fun computed at 1 42 14
+Started at 1 42 51
+val fun computed at 1 42 58
+Started at 1 43 34
+val fun computed at 1 43 41
+Started at 1 44 17
+val fun computed at 1 44 24
+Started at 1 45 0
+val fun computed at 1 45 8
+Started at 1 45 44
+val fun computed at 1 45 51
+Started at 1 46 27
+val fun computed at 1 46 34
+Started at 1 47 11
+val fun computed at 1 47 18
+Started at 1 47 54
+val fun computed at 1 48 1
+Started at 1 48 38
+val fun computed at 1 48 45
+Started at 1 49 22
+val fun computed at 1 49 29
+Started at 1 50 5
+val fun computed at 1 50 12
+Started at 1 50 49
+val fun computed at 1 50 56
+Started at 1 51 32
+val fun computed at 1 51 40
+Started at 1 52 16
+val fun computed at 1 52 23
+Started at 1 52 59
+val fun computed at 1 53 6
+Started at 1 53 42
+val fun computed at 1 53 49
+Started at 1 54 26
+val fun computed at 1 54 33
+Started at 1 55 9
+val fun computed at 1 55 16
+Started at 1 55 53
+val fun computed at 1 56 0
+Started at 1 56 37
+val fun computed at 1 56 44
+Started at 1 57 20
+val fun computed at 1 57 27
+Started at 1 58 4
+val fun computed at 1 58 11
+Started at 1 58 48
+val fun computed at 1 58 55
+Started at 1 59 31
+val fun computed at 1 59 38
+Started at 2 0 15
+val fun computed at 2 0 22
+Started at 2 0 59
+val fun computed at 2 1 6
+Started at 2 1 42
+val fun computed at 2 1 49
+beqdist computed at 2 2 26
+Started at 2 2 26
+val fun computed at 2 2 33
+Started at 2 3 9
+val fun computed at 2 3 16
+Started at 2 3 53
+val fun computed at 2 4 0
+beqdist computed at 2 4 37
+Started at 2 4 37
+val fun computed at 2 4 44
+Started at 2 5 20
+val fun computed at 2 5 27
+Started at 2 6 4
+val fun computed at 2 6 11
+Started at 2 6 47
+val fun computed at 2 6 54
+beqdist computed at 2 7 31
+New  Tau_l computed at 2 7 31
+Started at 2 7 31
+val fun computed at 2 7 38
+Started at 2 8 15
+val fun computed at 2 8 22
+Started at 2 8 59
+val fun computed at 2 9 6
+Started at 2 9 43
+val fun computed at 2 9 50
+Started at 2 10 26
+val fun computed at 2 10 34
+Started at 2 11 11
+val fun computed at 2 11 18
+Started at 2 11 54
+val fun computed at 2 12 1
+beqdist computed at 2 12 38
+Started at 2 12 38
+val fun computed at 2 12 45
+Started at 2 13 22
+val fun computed at 2 13 29
+Started at 2 14 6
+val fun computed at 2 14 13
+Started at 2 14 50
+val fun computed at 2 14 57
+beqdist computed at 2 15 33
+Started at 2 15 33
+val fun computed at 2 15 41
+Started at 2 16 17
+val fun computed at 2 16 25
+beqdist computed at 2 17 1
+New  Tau_l computed at 2 17 1
+Started at 2 17 1
+val fun computed at 2 17 8
+Started at 2 17 45
+val fun computed at 2 17 52
+Started at 2 18 29
+val fun computed at 2 18 36
+Started at 2 19 13
+val fun computed at 2 19 21
+Started at 2 19 57
+val fun computed at 2 20 5
+Started at 2 20 42
+val fun computed at 2 20 49
+beqdist computed at 2 21 26
+Started at 2 21 26
+val fun computed at 2 21 33
+Started at 2 22 10
+val fun computed at 2 22 17
+Started at 2 22 53
+val fun computed at 2 23 1
+beqdist computed at 2 23 38
+Started at 2 23 38
+val fun computed at 2 23 45
+Started at 2 24 22
+val fun computed at 2 24 29
+Started at 2 25 6
+val fun computed at 2 25 13
+beqdist computed at 2 25 50
+New  Tau_l computed at 2 25 50
+Started at 18 57 3
+val fun computed at 18 57 11
+Started at 18 57 50
+val fun computed at 18 57 57
+Started at 18 58 35
+val fun computed at 18 58 42
+Started at 18 59 19
+val fun computed at 18 59 26
+Started at 19 0 4
+val fun computed at 19 0 11
+Started at 19 0 48
+val fun computed at 19 0 55
+Started at 19 1 32
+val fun computed at 19 1 39
+Started at 19 2 16
+val fun computed at 19 2 23
+Started at 19 3 0
+val fun computed at 19 3 7
+Started at 19 3 45
+val fun computed at 19 3 52
+Started at 19 4 29
+val fun computed at 19 4 37
+Started at 19 5 14
+val fun computed at 19 5 22
+Started at 19 5 59
+val fun computed at 19 6 6
+Started at 19 6 44
+val fun computed at 19 6 51
+Started at 19 7 28
+val fun computed at 19 7 35
+Started at 19 8 12
+val fun computed at 19 8 19
+Started at 19 8 56
+val fun computed at 19 9 3
+Started at 19 9 41
+val fun computed at 19 9 48
+Started at 19 10 25
+val fun computed at 19 10 32
+Started at 19 11 9
+val fun computed at 19 11 16
+Started at 19 11 54
+val fun computed at 19 12 1
+Started at 19 12 39
+val fun computed at 19 12 46
+Started at 19 13 23
+val fun computed at 19 13 30
+Started at 19 14 7
+val fun computed at 19 14 15
+Started at 19 14 52
+val fun computed at 19 14 59
+Started at 19 15 37
+val fun computed at 19 15 44
+Started at 19 16 21
+val fun computed at 19 16 29
+Started at 19 17 7
+val fun computed at 19 17 14
+Started at 19 17 52
+val fun computed at 19 17 59
+Started at 19 18 36
+val fun computed at 19 18 43
+Started at 19 19 21
+val fun computed at 19 19 28
+Started at 19 20 6
+val fun computed at 19 20 13
+Started at 19 20 51
+val fun computed at 19 20 59
+beqdist computed at 19 21 37
+Started at 19 21 37
+val fun computed at 19 21 44
+Started at 19 22 22
+val fun computed at 19 22 29
+Started at 19 23 7
+val fun computed at 19 23 14
+Started at 19 23 53
+val fun computed at 19 24 0
+Started at 19 24 38
+val fun computed at 19 24 45
+Started at 19 25 22
+val fun computed at 19 25 29
+Started at 19 26 7
+val fun computed at 19 26 14
+beqdist computed at 19 26 52
+Started at 19 26 52
+val fun computed at 19 26 59
+Started at 19 27 38
+val fun computed at 19 27 45
+Started at 19 28 23
+val fun computed at 19 28 30
+Started at 19 29 8
+val fun computed at 19 29 15
+Started at 19 29 53
+val fun computed at 19 30 0
+Started at 19 30 38
+val fun computed at 19 30 45
+Started at 19 31 23
+val fun computed at 19 31 30
+Started at 19 32 7
+val fun computed at 19 32 14
+beqdist computed at 19 32 52
+Started at 19 32 52
+val fun computed at 19 32 59
+Started at 19 33 37
+val fun computed at 19 33 44
+Started at 19 34 22
+val fun computed at 19 34 29
+Started at 19 35 8
+val fun computed at 19 35 15
+beqdist computed at 19 35 53
+New  Tau_l computed at 19 35 53
+Started at 19 35 53
+val fun computed at 19 36 0
+Started at 19 36 38
+val fun computed at 19 36 45
+Started at 19 37 23
+val fun computed at 19 37 30
+Started at 19 38 8
+val fun computed at 19 38 16
+Started at 19 38 53
+val fun computed at 19 39 1
+Started at 19 39 38
+val fun computed at 19 39 45
+Started at 19 40 24
+val fun computed at 19 40 31
+Started at 19 41 9
+val fun computed at 19 41 16
+Started at 19 41 54
+val fun computed at 19 42 1
+Started at 19 42 39
+val fun computed at 19 42 47
+Started at 19 43 25
+val fun computed at 19 43 32
+Started at 19 44 10
+val fun computed at 19 44 18
+Started at 19 44 56
+val fun computed at 19 45 3
+Started at 19 45 41
+val fun computed at 19 45 48
+Started at 19 46 26
+val fun computed at 19 46 33
+Started at 19 47 11
+val fun computed at 19 47 18
+Started at 19 47 55
+val fun computed at 19 48 3
+Started at 19 48 41
+val fun computed at 19 48 47
+Started at 19 49 25
+val fun computed at 19 49 32
+Started at 19 50 9
+val fun computed at 19 50 16
+Started at 19 50 54
+val fun computed at 19 51 1
+Started at 19 51 39
+val fun computed at 19 51 47
+Started at 19 52 25
+val fun computed at 19 52 32
+Started at 19 53 9
+val fun computed at 19 53 16
+Started at 19 53 53
+val fun computed at 19 54 0
+Started at 19 54 37
+val fun computed at 19 54 44
+Started at 19 55 21
+val fun computed at 19 55 28
+Started at 19 56 4
+val fun computed at 19 56 11
+Started at 19 56 49
+val fun computed at 19 56 56
+Started at 19 57 34
+val fun computed at 19 57 41
+Started at 19 58 19
+val fun computed at 19 58 26
+Started at 19 59 4
+val fun computed at 19 59 11
+Started at 19 59 49
+val fun computed at 19 59 56
+beqdist computed at 20 0 33
+Started at 20 0 33
+val fun computed at 20 0 41
+Started at 20 1 19
+val fun computed at 20 1 26
+Started at 20 2 4
+val fun computed at 20 2 11
+Started at 20 2 48
+val fun computed at 20 2 55
+Started at 20 3 33
+val fun computed at 20 3 40
+Started at 20 4 18
+val fun computed at 20 4 25
+Started at 20 5 3
+val fun computed at 20 5 10
+beqdist computed at 20 5 47
+Started at 20 5 47
+val fun computed at 20 5 54
+Started at 20 6 32
+val fun computed at 20 6 39
+Started at 20 7 17
+val fun computed at 20 7 24
+Started at 20 8 2
+val fun computed at 20 8 9
+Started at 20 8 47
+val fun computed at 20 8 54
+Started at 20 9 32
+val fun computed at 20 9 39
+Started at 20 10 17
+val fun computed at 20 10 24
+Started at 20 11 2
+val fun computed at 20 11 9
+beqdist computed at 20 11 47
+Started at 20 11 47
+val fun computed at 20 11 54
+Started at 20 12 32
+val fun computed at 20 12 40
+Started at 20 13 17
+val fun computed at 20 13 24
+Started at 20 14 2
+val fun computed at 20 14 9
+beqdist computed at 20 14 47
+New  Tau_l computed at 20 14 47
+Started at 20 14 47
+val fun computed at 20 14 55
+Started at 20 15 32
+val fun computed at 20 15 40
+Started at 20 16 17
+val fun computed at 20 16 24
+Started at 20 17 3
+val fun computed at 20 17 10
+Started at 20 17 49
+val fun computed at 20 17 56
+Started at 20 18 34
+val fun computed at 20 18 41
+Started at 20 19 19
+val fun computed at 20 19 26
+Started at 20 20 10
+val fun computed at 20 20 17
+Started at 20 20 57
+val fun computed at 20 21 4
+Started at 20 21 42
+val fun computed at 20 21 49
+Started at 20 22 27
+val fun computed at 20 22 34
+Started at 20 23 12
+val fun computed at 20 23 19
+Started at 20 23 57
+val fun computed at 20 24 4
+Started at 20 24 42
+val fun computed at 20 24 49
+Started at 20 25 25
+val fun computed at 20 25 32
+Started at 20 26 8
+val fun computed at 20 26 15
+Started at 20 26 50
+val fun computed at 20 26 57
+Started at 20 27 33
+val fun computed at 20 27 40
+Started at 20 28 15
+val fun computed at 20 28 22
+Started at 20 28 58
+val fun computed at 20 29 5
+Started at 20 29 41
+val fun computed at 20 29 48
+Started at 20 30 23
+val fun computed at 20 30 29
+Started at 20 31 5
+val fun computed at 20 31 12
+Started at 20 31 47
+val fun computed at 20 31 54
+Started at 20 32 30
+val fun computed at 20 32 37
+Started at 20 33 12
+val fun computed at 20 33 19
+Started at 20 33 55
+val fun computed at 20 34 2
+Started at 20 34 37
+val fun computed at 20 34 44
+Started at 20 35 19
+val fun computed at 20 35 26
+Started at 20 36 2
+val fun computed at 20 36 9
+Started at 20 36 44
+val fun computed at 20 36 51
+Started at 20 37 27
+val fun computed at 20 37 34
+Started at 20 38 10
+val fun computed at 20 38 16
+Started at 20 38 52
+val fun computed at 20 38 59
+Started at 20 39 35
+val fun computed at 20 39 41
+Started at 20 40 17
+val fun computed at 20 40 24
+Started at 20 40 59
+val fun computed at 20 41 6
+Started at 20 41 44
+val fun computed at 20 41 51
+Started at 20 42 28
+val fun computed at 20 42 35
+Started at 20 43 11
+val fun computed at 20 43 18
+beqdist computed at 20 43 55
+Started at 20 43 55
+val fun computed at 20 44 2
+Started at 20 44 38
+val fun computed at 20 44 45
+Started at 20 45 22
+val fun computed at 20 45 29
+Started at 20 46 6
+val fun computed at 20 46 13
+Started at 20 46 49
+val fun computed at 20 46 57
+Started at 20 47 33
+val fun computed at 20 47 40
+Started at 20 48 17
+val fun computed at 20 48 24
+beqdist computed at 20 49 1
+Started at 20 49 1
+val fun computed at 20 49 8
+Started at 20 49 44
+val fun computed at 20 49 51
+Started at 20 50 27
+val fun computed at 20 50 34
+Started at 20 51 10
+val fun computed at 20 51 17
+Started at 20 51 53
+val fun computed at 20 52 0
+Started at 20 52 36
+val fun computed at 20 52 44
+Started at 20 53 20
+val fun computed at 20 53 27
+Started at 20 54 3
+val fun computed at 20 54 10
+beqdist computed at 20 54 47
+Started at 20 54 47
+val fun computed at 20 54 54
+Started at 20 55 31
+val fun computed at 20 55 38
+Started at 20 56 14
+val fun computed at 20 56 21
+Started at 20 56 57
+val fun computed at 20 57 3
+beqdist computed at 20 57 39
+New  Tau_l computed at 20 57 39
+Started at 21 16 48
+val fun computed at 21 16 55
+Started at 21 17 28
+val fun computed at 21 17 36
+Started at 21 18 8
+val fun computed at 21 18 15
+Started at 21 18 48
+val fun computed at 21 18 55
+Started at 21 19 28
+val fun computed at 21 19 35
+Started at 21 20 8
+val fun computed at 21 20 15
+Started at 21 20 49
+val fun computed at 21 20 56
+Started at 21 21 29
+val fun computed at 21 21 36
+Started at 21 22 9
+val fun computed at 21 22 16
+Started at 21 22 50
+val fun computed at 21 22 57
+Started at 21 23 30
+val fun computed at 21 23 37
+Started at 21 24 10
+val fun computed at 21 24 18
+Started at 21 24 51
+val fun computed at 21 24 58
+Started at 21 25 31
+val fun computed at 21 25 38
+Started at 21 26 12
+val fun computed at 21 26 19
+Started at 21 26 52
+val fun computed at 21 26 59
+Started at 21 27 33
+val fun computed at 21 27 40
+Started at 21 28 13
+val fun computed at 21 28 20
+Started at 21 28 54
+val fun computed at 21 29 1
+Started at 21 29 34
+val fun computed at 21 29 42
+Started at 21 30 14
+val fun computed at 21 30 22
+Started at 21 30 55
+val fun computed at 21 31 2
+Started at 21 31 35
+val fun computed at 21 31 42
+Started at 21 32 16
+val fun computed at 21 32 23
+Started at 21 32 56
+val fun computed at 21 33 4
+Started at 21 33 36
+val fun computed at 21 33 43
+Started at 21 34 16
+val fun computed at 21 34 24
+Started at 21 34 56
+val fun computed at 21 35 4
+Started at 21 35 37
+val fun computed at 21 35 44
+Started at 21 36 17
+val fun computed at 21 36 25
+Started at 21 36 57
+val fun computed at 21 37 5
+Started at 21 37 38
+val fun computed at 21 37 45
+Started at 21 38 18
+val fun computed at 21 38 26
+Started at 21 38 59
+val fun computed at 21 39 6
+beqdist computed at 21 39 40
+Started at 21 39 40
+val fun computed at 21 39 47
+Started at 21 40 21
+val fun computed at 21 40 28
+Started at 21 41 1
+val fun computed at 21 41 8
+Started at 21 41 41
+val fun computed at 21 41 49
+Started at 21 42 22
+val fun computed at 21 42 29
+Started at 21 43 2
+val fun computed at 21 43 9
+Started at 21 43 43
+val fun computed at 21 43 50
+Started at 21 44 23
+val fun computed at 21 44 30
+Started at 21 45 4
+val fun computed at 21 45 11
+Started at 21 45 44
+val fun computed at 21 45 51
+Started at 21 46 24
+val fun computed at 21 46 32
+Started at 21 47 5
+val fun computed at 21 47 12
+Started at 21 47 45
+val fun computed at 21 47 52
+Started at 21 48 25
+val fun computed at 21 48 33
+Started at 21 49 6
+val fun computed at 21 49 13
+Started at 21 49 46
+val fun computed at 21 49 54
+Started at 21 50 27
+val fun computed at 21 50 34
+Started at 21 51 7
+val fun computed at 21 51 14
+Started at 21 51 47
+val fun computed at 21 51 54
+Started at 21 52 27
+val fun computed at 21 52 34
+Started at 21 53 7
+val fun computed at 21 53 14
+Started at 21 53 47
+val fun computed at 21 53 55
+Started at 21 54 27
+val fun computed at 21 54 35
+Started at 21 55 8
+val fun computed at 21 55 15
+Started at 21 55 48
+val fun computed at 21 55 55
+Started at 21 56 28
+val fun computed at 21 56 35
+Started at 21 57 8
+val fun computed at 21 57 16
+Started at 21 57 48
+val fun computed at 21 57 55
+Started at 21 58 28
+val fun computed at 21 58 35
+beqdist computed at 21 59 9
+Started at 21 59 9
+val fun computed at 21 59 16
+Started at 21 59 49
+val fun computed at 21 59 56
+Started at 22 0 30
+val fun computed at 22 0 37
+Started at 22 1 10
+val fun computed at 22 1 17
+Started at 22 1 50
+val fun computed at 22 1 58
+Started at 22 2 31
+val fun computed at 22 2 38
+Started at 22 3 11
+val fun computed at 22 3 19
+Started at 22 3 51
+val fun computed at 22 3 59
+Started at 22 4 32
+val fun computed at 22 4 39
+Started at 22 5 13
+val fun computed at 22 5 20
+Started at 22 5 53
+val fun computed at 22 6 0
+Started at 22 6 33
+val fun computed at 22 6 41
+Started at 22 7 14
+val fun computed at 22 7 21
+Started at 22 7 54
+val fun computed at 22 8 2
+Started at 22 8 35
+val fun computed at 22 8 42
+Started at 22 9 15
+val fun computed at 22 9 22
+Started at 22 9 54
+val fun computed at 22 10 1
+Started at 22 10 33
+val fun computed at 22 10 40
+Started at 22 11 12
+val fun computed at 22 11 19
+Started at 22 11 50
+val fun computed at 22 11 57
+Started at 22 12 29
+val fun computed at 22 12 36
+Started at 22 13 8
+val fun computed at 22 13 15
+Started at 22 13 47
+val fun computed at 22 13 54
+Started at 22 14 26
+val fun computed at 22 14 33
+Started at 22 15 4
+val fun computed at 22 15 11
+Started at 22 15 43
+val fun computed at 22 15 50
+Started at 22 16 21
+val fun computed at 22 16 28
+beqdist computed at 22 17 0
+Started at 22 17 0
+val fun computed at 22 17 7
+Started at 22 17 39
+val fun computed at 22 17 46
+Started at 22 18 18
+val fun computed at 22 18 25
+Started at 22 18 56
+val fun computed at 22 19 3
+Started at 22 19 35
+val fun computed at 22 19 42
+Started at 22 20 14
+val fun computed at 22 20 21
+Started at 22 20 53
+val fun computed at 22 21 0
+Started at 22 21 31
+val fun computed at 22 21 38
+Started at 22 22 10
+val fun computed at 22 22 17
+Started at 22 22 48
+val fun computed at 22 22 56
+Started at 22 23 27
+val fun computed at 22 23 34
+Started at 22 24 6
+val fun computed at 22 24 13
+Started at 22 24 45
+val fun computed at 22 24 52
+Started at 22 25 23
+val fun computed at 22 25 30
+Started at 22 26 2
+val fun computed at 22 26 9
+Started at 22 26 41
+val fun computed at 22 26 48
+Started at 22 27 20
+val fun computed at 22 27 27
+beqdist computed at 22 27 58
+Started at 22 27 58
+val fun computed at 22 28 5
+Started at 22 28 37
+val fun computed at 22 28 45
+Started at 22 29 17
+val fun computed at 22 29 24
+Started at 22 29 55
+val fun computed at 22 30 3
+Started at 22 30 34
+val fun computed at 22 30 42
+Started at 22 31 14
+val fun computed at 22 31 21
+Started at 22 31 53
+val fun computed at 22 32 0
+Started at 22 32 32
+val fun computed at 22 32 39
+Started at 22 33 10
+val fun computed at 22 33 17
+beqdist computed at 22 33 49
+Started at 22 33 49
+val fun computed at 22 33 56
+Started at 22 34 28
+val fun computed at 22 34 35
+Started at 22 35 7
+val fun computed at 22 35 14
+Started at 22 35 45
+val fun computed at 22 35 52
+Started at 22 36 24
+val fun computed at 22 36 32
+Started at 22 37 4
+val fun computed at 22 37 12
+Started at 22 37 45
+val fun computed at 22 37 52
+beqdist computed at 22 38 25
+Started at 22 38 25
+val fun computed at 22 38 32
+Started at 22 39 5
+val fun computed at 22 39 13
+Started at 22 39 45
+val fun computed at 22 39 53
+beqdist computed at 22 40 25
+New  Tau_l computed at 22 40 25
