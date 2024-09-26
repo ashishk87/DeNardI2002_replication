@@ -8,8 +8,6 @@ This repository replicates the De Nard and Tristani (2002) study using Julia. It
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Running the Notebook](#running-the-notebook)
-- [Project Structure](#project-structure)
-- [License](#license)
 
 ## Prerequisites
 
@@ -42,7 +40,7 @@ chmod +x setup.sh
 ./setup.sh
 ```
 
-### 3. Open and Run the Notebook
+### Running the Notebook
 In JupyterLab (or VSCode), navigate to the src folder and open DeNardi200_Replication.ipynb. Run the cells to execute the replication study.
 
 
