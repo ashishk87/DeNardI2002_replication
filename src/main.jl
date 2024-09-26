@@ -943,10 +943,3 @@ twr3, trwealth3, avgk3 = transfer_wealth_ratio(params_exp_3, results_exp_3)
 # | 0.055   | 5018.04 sec.   |
 
 
-
-
-# | U.S. data                                                    | 3.0                  | 0.60                   | 0.78        | 29                         | 53                         | 80                         | 93                         | 98                         | 5.8–15.0                                   |                                     |
-# | No intergenerational links, unequal bequests to children     | 3.0                  | 0.38                   | 0.68        | 7                          | 28                         | 69                         | 92                         | 99                         | 17                                         |
-# | One link: productivity inheritance                           | 3.0                  | 0.38                   | 0.69        | 8                          | 29                         | 71                         | 92                         | 99                         | 17                                       |
-# | One link: parent's bequest motive   | 3.0                         |  0.55                 | 0.74                   | 14        | 36                         | 76                        | 94                        | 99                         |                19                                             |
-# | Both links: parent's bequest motive and productivity inheritance | 3.0                  | 0.64                   | 0.77        | 20                         | 44                         | 80                         | 95                         |99                        | 19              
