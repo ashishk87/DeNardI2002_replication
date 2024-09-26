@@ -1,5 +1,4 @@
-# DeNardI2002_replication
-# DeNardI2002_replication
+# DeNardi_2004_replication
 
 This repository replicates the De Nard and Tristani (2002) study using Julia. It includes all necessary scripts and a Jupyter Notebook for analysis.
 
