@@ -935,11 +935,6 @@ twr3, trwealth3, avgk3 = transfer_wealth_ratio(params_exp_3, results_exp_3)
 
 
 
-# In the first instance, we initialize the labor income tax $\tau_l = 0.282$ close to the value that balances the budget $\tau_l^* = 0.279$. In second instance, we initiate the value that is used in other studies and is more plausble guess $\tau_l = 0.224$.
 
-# | $\|\tau_l - \tau_l^*\|$ | Run time |
-# |--------------------|-------------|
-# | 0.003   | 2251.08 sec.   |
-# | 0.055   | 5018.04 sec.   |
 
 
