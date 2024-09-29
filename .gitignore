@@ -12,3 +12,6 @@
 
 # Output directories
 #/output/
+
+# MyST build outputs
+_build
