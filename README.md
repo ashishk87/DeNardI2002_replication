@@ -43,6 +43,12 @@ chmod +x setup.sh
 In JupyterLab (or VSCode), navigate to the src folder and open DeNardi200_Replication.ipynb. Run the cells to execute the replication study.
 
 
+### For running it on binder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ashishk87/DeNardi_2004_replication/HEAD?labpath=src%2FDeNardi2002_Replication.ipynb)
+
+
+
 
 
 
