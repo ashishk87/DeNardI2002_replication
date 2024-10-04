@@ -8,6 +8,20 @@
 
 using Distributions, JLD2, Plots, Interpolations, UnPack, Random, LinearAlgebra, DelimitedFiles
 
+#=
+Run the following commands to create Manifest.toml and Project.toml files
+
+using Pkg
+
+# Initialize a new environment in the current directory
+Pkg.activate(".")
+Pkg.instantiate()
+
+Pkg.add(["Distributions", "JLD2", "Plots", "Interpolations", "UnPack", "Random", "LinearAlgebra", "DelimitedFiles", "IJulia"])
+
+Pkg.resolve()
+=#
+
 
 # Define the function binary_search with types specified for each input
 function binary_search(x::Vector{Float64} , xi::Float64)
