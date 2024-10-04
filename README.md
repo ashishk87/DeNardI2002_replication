@@ -1,6 +1,10 @@
 # DeNardi_2004_replication
 
-This repository replicates the De Nard and Tristani (2002) study using Julia. It includes all necessary scripts and a Jupyter Notebook for analysis.
+This repository replicates the De Nardi (2004) study using Julia. It includes all necessary scripts and a Jupyter Notebook for analysis.
+
+### To launch it on binder click the below link
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ashishk87/DeNardi_2004_replication/HEAD?labpath=src%2FDeNardi2002_Replication.ipynb)
 
 ## Table of Contents
 
@@ -43,9 +47,7 @@ chmod +x setup.sh
 In JupyterLab (or VSCode), navigate to the src folder and open DeNardi200_Replication.ipynb. Run the cells to execute the replication study.
 
 
-### For running it on binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ashishk87/DeNardi_2004_replication/HEAD?labpath=src%2FDeNardi2002_Replication.ipynb)
 
 
 
