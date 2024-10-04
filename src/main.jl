@@ -1,11 +1,6 @@
-# Loading relevant packages
-using Distributions, Plots, PyPlot, LaTeXStrings, IterTools, QuantEcon, CSV, DataFrames, LinearAlgebra, Random, Statistics,Conda, CSVFiles
-using Statistics, CSV, DataFrames, LinearAlgebra, Random, Statistics,Conda, BenchmarkTools, MacroTools, Base.Threads
-using Optim, GLM, FreqTables, ForwardDiff, PyCall, PlotlyJS, HTTP, CovarianceMatrices, StatsBase,Printf
-using JuMP, Ipopt, NLopt, StatsBase, Econometrics, CategoricalArrays, PyCall,  RCall, PrettyTables,FixedEffectModels, XLSX, BlockArrays,BlockBandedMatrices, NLsolve, Dates, IJulia, Interact
-using IJulia, Base.Threads, DelimitedFiles, UnPack
-using BlackBoxOptim, Interpolations
-using JLD2
+# # Loading relevant packages
+using Distributions, JLD2, Plots, Interpolations, UnPack, Random, LinearAlgebra, DelimitedFiles
+
 
 
 include("tools_DeNardi_replication.jl")
