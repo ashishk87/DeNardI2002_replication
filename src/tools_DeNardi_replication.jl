@@ -9,8 +9,6 @@
 using Distributions, JLD2, Plots, Interpolations, UnPack, Random, LinearAlgebra, DelimitedFiles
 
 
-
-
 # Define the function binary_search with types specified for each input
 function binary_search(x::Vector{Float64} , xi::Float64)
     """
